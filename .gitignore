@@ -34,3 +34,6 @@ pnpm-debug.log*
 
 # Next telemetry
 .next
+
+package-lock.json
+package.json
