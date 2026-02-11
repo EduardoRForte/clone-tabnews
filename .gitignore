@@ -37,3 +37,4 @@ pnpm-debug.log*
 
 package-lock.json
 package.json
+.nvmrc
